@@ -7,8 +7,9 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Bundle 'bling/vim-airline'
 Bundle 'scrooloose/nerdtree'
-"Bundle 'Valloric/YouCompleteMe'
-Bundle 'majutsushi/tagbar'
+Bundle 'Valloric/YouCompleteMe'
+
+Bundle 'davidhalter/jedi-vim'
 Bundle 'scrooloose/syntastic'
 Bundle "tomasr/molokai"
 
@@ -17,11 +18,15 @@ filetype plugin indent on
 let NERDTreeWinPos='right'
 let NERDTreeWinSize=30
 map <F2> :NERDTreeToggle<CR>
+map <F3> :tags<CR>
 set laststatus=2
+
+let List_Exit_OnlyWindow = 1
+let Tlist_Use_Right_Window = 1 
 
 set nu
 syntax on
 syntax enable
-set background=light
+"set background=light
 colorscheme molokai
 set autoindent
