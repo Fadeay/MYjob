@@ -1,0 +1,27 @@
+set nocompatible
+filetype off
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'VundleVim/Vundle.vim'
+Bundle 'bling/vim-airline'
+Bundle 'scrooloose/nerdtree'
+"Bundle 'Valloric/YouCompleteMe'
+Bundle 'majutsushi/tagbar'
+Bundle 'scrooloose/syntastic'
+Bundle "tomasr/molokai"
+
+call vundle#end()
+filetype plugin indent on
+let NERDTreeWinPos='right'
+let NERDTreeWinSize=30
+map <F2> :NERDTreeToggle<CR>
+set laststatus=2
+
+set nu
+syntax on
+syntax enable
+set background=light
+colorscheme molokai
+set autoindent
