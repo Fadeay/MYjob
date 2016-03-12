@@ -18,7 +18,6 @@ filetype plugin indent on
 let NERDTreeWinPos='right'
 let NERDTreeWinSize=30
 map <F2> :NERDTreeToggle<CR>
-map <F3> :tags<CR>
 set laststatus=2
 
 let List_Exit_OnlyWindow = 1
