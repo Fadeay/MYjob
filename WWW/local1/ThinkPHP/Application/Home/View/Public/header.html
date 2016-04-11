@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+<title>{$webtitle}</title>
+<link rel="stylesheet" href="/bootstrap/dist/css/bootstrap.min.css">
+<style>
+    body {
+    background: url(__PUBLIC__/image/44981-106.jpg) fixed center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    }
+</style>
+</head>
+<body>
+<nav class="navbar navbar-inverse" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="__MODULE__/Home/home">Home</a>
+  </div>
+
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="__SELF__">{$webtitle}</a></li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">编码 <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="__MODULE__/Code/base64">base64</a></li>
+          <li><a href="__MODULE__/Code/url">url编码</a></li>
+          <li><a href="__MODULE__/Code/radix">进制转换</a></li>
+          <li class="divider"></li>
+          <li><a href="__MODULE__/Code/md5">MD5</a></li>
+          <li class="divider"></li>
+          <li><a href="#">One more separated link</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">爆破<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="__MODULE__/Burst/burstback">后台爆破</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="" >你好:<kbd class="btn-lg">{$user}</kbd></a></li>
+      <li><a href="{:U('User/logout')}"><kbd class="btn-lg">退出</kbd></a></li>
+    </ul>
+  </div>
+</nav>

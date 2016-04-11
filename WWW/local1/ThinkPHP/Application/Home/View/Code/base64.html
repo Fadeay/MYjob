@@ -1,0 +1,26 @@
+<include file="Public/header" />
+  <div class="container-fluid">
+    <div style="margin-top: 10%" class="row">
+      <div class="col-md-6 col-md-offset-1">
+        <form class="form-inline" action="__SELF__" method="post">
+          <div class="form-group">
+            <div class="input-group">
+                <span class="input-group-addon">base64</span>
+                <textarea rows="15" cols="70" maxlength=1024 class="form-control" placeholder="请输入" name="base64"required autofocus>{$origin}</textarea>
+            </div>
+          </div>
+          <div class="form-group col-md-offset-2">
+            <button name="way" type="submit" class="btn btn-primary btn-lg" value="encode">加密=></button><br/><br/>
+            <button name="way" type="submit" class="btn btn-primary btn-lg" value="decode">解密=></button>
+          </div>
+        </form>
+      </div>
+      <div class="col-md-4">
+        <div class="input-group">
+                <span class="input-group-addon">结果</span>
+                <textarea rows="15" maxlength="1024" class="form-control">{$anwser}</textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+<include file="Public/footer" />

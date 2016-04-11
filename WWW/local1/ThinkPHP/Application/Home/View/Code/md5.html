@@ -1,0 +1,34 @@
+<include file="Public/header" />
+<div class="container-fluid">
+    <div style="margin-top: 10%" class="row">
+        <div class="col-md-5 col-md-offset-1">
+            <form class="" action="__SELF__" method="post">
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon">md5</span>
+                        <input type="text" class="form-control " placeholder="请输入" name="input" value = "{$origin}"required/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">加密</button>
+                </div>
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon">32位</span>
+                        <input type="text" class="form-control" placeholder="结果" value="{$md532}"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon">16位</span>
+                        <input type="text" class="form-control" placeholder="结果" value="{$md516}"/>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-3">
+
+        </div>
+    </div>
+</div>
+<include file="Public/footer" />

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+<title>{$webtitle}</title>
+<link rel="stylesheet" href="/bootstrap/dist/css/bootstrap.min.css">
+<style>
+    body {
+    background: url(__PUBLIC__/image/44981-106.jpg) fixed center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    }
+</style>
+</head>
+<body>
+<nav class="navbar navbar-inverse" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="__MODULE__/home/home">后台管理</a>
+  </div>
+
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+      <li class="" ><a href="__CONTROLLER__/register">添加管理</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="" >你好:<kbd class="btn-lg">{$user}</kbd></a></li>
+      <li><a href="{:U('User/logout')}"><kbd class="btn-lg">退出</kbd></a></li>
+    </ul>
+  </div>
+</nav>

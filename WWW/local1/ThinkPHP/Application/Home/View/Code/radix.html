@@ -1,0 +1,56 @@
+<include file="Public/header" />
+<div class="container-fluid">
+    <div style="margin-top: 10%" class="row">
+        <div class="col-md-5 col-md-offset-1">
+            <form class="" action="__SELF__" method="post">
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon">数据</span>
+                        <input type="text" class="form-control " placeholder="请输入" name="input" value = "{$origin}"required/>
+                    </div>
+                </div>
+                <div class="form-group">
+                   <label class="checkbox-inline">
+                      <input type="radio" name="option1" value="dec" checked>十进制
+                   </label>
+                   <label class="checkbox-inline">
+                      <input type="radio" name="option1" value="oct">八进制
+                   </label>
+                    <label class="checkbox-inline">
+                      <input type="radio" name="option1" value="bin">二进制
+                   </label>
+                    <label class="checkbox-inline">
+                      <input type="radio" name="option1" value="hex">十六进制
+                   </label>
+                </div>
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon">结果</span>
+                        <input type="text" class="form-control" placeholder="结果" value="{$anwser}"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                   <label class="checkbox-inline">
+                      <input type="radio" name="option2" value="hex" checked>十六进制
+                   </label>
+                   <label class="checkbox-inline">
+                      <input type="radio" name="option2" value="bin">二进制
+                   </label>
+                    <label class="checkbox-inline">
+                      <input type="radio" name="option2" value="oct">八进制
+                   </label>.
+                    <label class="checkbox-inline">
+                      <input type="radio" name="option2" value="dec">十进制
+                   </label>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">开始转换</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-3">
+
+        </div>
+    </div>
+</div>
+<include file="Public/footer" />

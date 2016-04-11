@@ -1,0 +1,125 @@
+[ 2016-03-08T13:29:41+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-03-08T13:29:43+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-03-08T13:29:43+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-03-08T13:29:44+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+
+[ 2016-03-08T13:29:45+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+
+[ 2016-03-08T13:29:45+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-03-08T13:29:45+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+
+[ 2016-03-08T13:29:45+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-03-08T13:29:46+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-03-08T13:29:47+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+
+[ 2016-03-08T13:29:47+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+
+[ 2016-03-08T13:29:48+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-03-08T13:29:48+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+
+[ 2016-03-08T13:29:49+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+
+[ 2016-03-08T13:29:49+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-03-08T13:29:50+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+
+[ 2016-03-08T13:29:50+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-03-08T13:29:50+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+
+[ 2016-03-08T13:29:50+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-03-08T13:29:50+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+
+[ 2016-03-08T13:29:51+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+
+[ 2016-03-08T13:29:52+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+
+[ 2016-03-08T13:29:53+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+
+[ 2016-03-08T13:29:54+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=http%3A%2F%2Fwww.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+
+[ 2016-03-08T13:34:29+08:00 ] ::1 /ThinkPHP/Home/Burst/startburst?url=www.cn-heli.cn%2Fnews.asp&dict=all.txt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
